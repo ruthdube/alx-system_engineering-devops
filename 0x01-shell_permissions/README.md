@@ -1,1 +1,1 @@
-Shell permissions
+who am l
